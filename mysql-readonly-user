@@ -1,0 +1,1 @@
+grant select on *.* to '<usuario>'@'%' identified by '<senha>';
